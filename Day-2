@@ -1,0 +1,8 @@
+name="YuvarajS"
+country="India"
+city="Pochampalli"
+age=20
+is_studing=true
+skills=["c","c+","java","python"]
+details={"name":"YuvarajS",country="India",city="Pochampalli",age=20,is_studing=true}
+print(name,country,city,age,is_studing,skill,details)
